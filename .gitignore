@@ -1,0 +1,14 @@
+# 元PDF・一時ファイルは含めない (manifest.json の取得元URLから再取得可能)
+data/raw/
+data/text/
+raw/
+*.log
+nohup.out
+sample.txt
+stat.txt
+tk.log
+data/tokushima_opendata/*.html
+data/tokushima_opendata/p894.json
+data/tokushima_opendata/w.txt
+data/tokushima_opendata/2016_202_naruto.csv
+__pycache__/
